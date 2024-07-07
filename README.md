@@ -1,4 +1,4 @@
-![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
+![alt text](https://github.com/leonard-sanya/leonard-sanya/blob/main/AI%20coverage%202.jpg)
                                                 
                                                 
                                                 
