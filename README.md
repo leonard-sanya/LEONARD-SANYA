@@ -1,5 +1,5 @@
 
-<img src="https://github.com/leonard-sanya/leonard-sanya/blob/main/ai-circuit-board-technology-system-scaled.jpg" width="1024" height="512"/>
+<img src="https://github.com/leonard-sanya/leonard-sanya/blob/main/ai-circuit-board-technology-system-scaled.jpg" width="1024" height="480"/>
                                                 
                                                 
                                                 
