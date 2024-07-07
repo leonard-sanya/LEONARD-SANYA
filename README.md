@@ -6,7 +6,7 @@
                                                 
                                                 Hi there 👋
 
-                                    Welcome to my GitHub Repository
+                                    I'm Leonard, welcome to my GitHub Repository
                           
 
 # Leonard Sanya
