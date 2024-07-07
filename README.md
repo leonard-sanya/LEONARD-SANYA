@@ -1,4 +1,5 @@
-![alt text](https://github.com/leonard-sanya/leonard-sanya/blob/main/AI%20coverage%202.jpg)
+
+<img src="https://github.com/leonard-sanya/leonard-sanya/blob/main/AI%20coverage%202.jpg" width="1024" height="512"/>
                                                 
                                                 
                                                 
